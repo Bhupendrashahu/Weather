@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WheaterApp</string>
+
+    <style name="weather_mat">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <string name="weather_mat">
+        Weather Matters, \nWe\'ve Got the Details
+    </string>
+    <style name="min_23_22">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+</resources>
